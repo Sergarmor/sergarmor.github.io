@@ -53,4 +53,4 @@ I have published papers on _Astronomy and Astrophysics_ and contributed to sever
 
 ---
 
-[GitHub](https://github.com/sergarmor) | [LinkedIn](https://linkedin.com/sergarmor) 
+[GitHub](https://github.com/sergarmor) | [LinkedIn](https://www.linkedin.com/in/sergarmor) 
