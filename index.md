@@ -17,12 +17,7 @@ ResearchID: [sergarmor](https://researchid.co/sergarmor)
 
 ## Bio
 
-¡Hola! Soy Sergio, investigador predoctoral en el grupo de [Nombre del Grupo de Investigación]. Mi tesis se centra en el estudio de [Tu tema: ej. formación estelar, agujeros negros, exoplanetas].
-
-Me interesan especialmente:
-* La evolución galáctica.
-* El análisis de datos espectroscópicos.
-* Simulaciones cosmológicas.
+This is my bio (wip)
 
 You can view my full CV in [English](/assets/CV_SergioGM_eng.pdf) or [Spanish](/assets/CV_SergioGM_esp.pdf)
 
